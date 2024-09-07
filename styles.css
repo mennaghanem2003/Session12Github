@@ -10,7 +10,7 @@ body {
     font-family: "Times New Roman", serif;
   }
   h3 {
-    font-style: italic;
+    font-style: inherit;
   }
   a {
     color: slateblue;
